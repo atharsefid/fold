@@ -4,7 +4,7 @@
 
 Note: Functions taking `Block` arguments can also take anything accepted by
 [`td.convert_to_block`](#td.convert_to_block). Functions taking `ResultType`
-arguments can can also take anything accepted by
+arguments can also take anything accepted by
 [`td.convert_to_type`](#td.convert_to_type).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
